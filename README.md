@@ -1,3 +1,5 @@
 # currency-conversion-service
 
-This project under development.
+
+
+http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
